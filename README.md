@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Aboard!+👋;+I'm+Sanjula+Gathsara!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate software engineer from Sri Lanka 🇱🇰</h3>
 
 <br/>
 
 <div align="center">
 
- 👨🏼‍🎓 Studying **Computer Science & Engineering at University of Moratuwa**
+ 👨🏼‍🎓  **Computer Science & Engineering at University of Moratuwa**
  
- 🤖 I’m currently working on **RoboticGen**
+ 🤖 I’m currently working on **GTN**
  
- 🌱 I’m currently learning **ROS, Flutter**
+ 🌱 I’m currently learning **Software Architecture**
 
 💬 Ask me about **C++, Arduino, Python... or anything [here](https://github.com/sanjulagathsara)**
 
